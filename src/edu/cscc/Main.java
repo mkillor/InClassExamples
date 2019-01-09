@@ -3,6 +3,7 @@ package edu.cscc;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	    // Basic Hello World application
+        System.out.println("Hello World!");
     }
 }
